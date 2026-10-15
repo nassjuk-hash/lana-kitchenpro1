@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118985786731",
+    "project_id": "lana-b2a19",
+    "storage_bucket": "lana-b2a19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118985786731:android:39dd44110a1c8ea779b82e",
+        "android_client_info": {
+          "package_name": "com.lana.kitchen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlyQzj6scrKCBc6V9_lmEs5HpvqDvoIxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
